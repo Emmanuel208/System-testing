@@ -13,6 +13,7 @@ In this document we will be covering the Creation of a simple Django-Python proj
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Geoff Wright](https://github.com/Geoff-Wright/djangoProject_temp/blob/main/REAME.txt)
+  - [project Template](https://github.com/TheDumbfounds/django-testing-tutorial)
  
 
 
