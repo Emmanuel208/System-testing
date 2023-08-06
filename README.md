@@ -1,9 +1,9 @@
-# testing-projectCA3
+# testing-project
 Application that shows basic testing scripts on django
 
 
 
-# Back-End Web Development - BSC30922 & BTM0922 - Semester 2
+# Back-End Web Development - 
 
 In this document we will be covering the Creation of a simple Django-Python project and run testing on various testing to ensuer the application is working as it should.
 
@@ -59,6 +59,4 @@ If you have any feedback, please reach out to us at 23606@student.dorset-college
 
 Thank you
 
-
-![Logo](https://th.bing.com/th/id/R.f8bbf9e89283f33ff46c70d5bd657b26?rik=fz4xoBwZUCCuCA&riu=http%3a%2f%2fwww.plccourses.ie%2fwp-content%2fuploads%2f2012%2f02%2fdorset-college.jpg&ehk=q05y43yzdxL8O1WDEPzBKkpg1FCwcVQIjpU0DRIIzOY%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1)
 
